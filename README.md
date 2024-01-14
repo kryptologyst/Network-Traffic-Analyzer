@@ -25,7 +25,7 @@ scapy library (pip install scapy)
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/network-traffic-analyzer.git
+    git clone https://github.com/kryptologyst/network-traffic-analyzer.git
 
 Navigate to the project directory:
 
